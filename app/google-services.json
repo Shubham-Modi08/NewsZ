@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64213074268",
+    "project_id": "newsz-21091",
+    "storage_bucket": "newsz-21091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64213074268:android:568abf91c52bcd6291c199",
+        "android_client_info": {
+          "package_name": "com.example.newsz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWU3GgYxfwmDXBzqci6GceObnDs-8akE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
